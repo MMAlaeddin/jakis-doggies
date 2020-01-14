@@ -16,3 +16,23 @@ h1 {
 p {
   text-decoration: underline;
 }
+
+#black {
+  background-color: black;
+  color: white;
+}
+
+#default {
+  background-color: #98C6CE;
+  color: white;
+  border-color: black;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
